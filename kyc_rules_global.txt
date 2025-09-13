@@ -1,0 +1,6 @@
+**Global KYC Regulations (FATF)**
+1.  **Customer Identification:** Verify the customer's identity using reliable, independent source documents, data, or information. Collect full name, address, and date of birth.
+2.  **Due Diligence (CDD):** Understand the business relationship and assess the risk of money laundering and terrorist financing.
+3.  **Risk-Based Approach:** Apply enhanced due diligence (EDD) for high-risk customers, and simplified due diligence (SDD) for low-risk customers.
+4.  **Adverse Media Check:** Screen for any negative news or public information that could indicate risk.
+5.  **Sanctions Screening:** Check customer against global sanctions lists.

@@ -1,0 +1,5 @@
+typing
+langchain_community
+longchain
+langgraph
+streamlit

@@ -1,0 +1,24 @@
+Customer Identification Document
+---
+Full Name: Johnathan Lim Wei
+Alias: John Lim
+
+Date of Birth: 1990-05-15
+Nationality: Singaporean
+
+Residential Address: 123 Orchard Road, #08-10, Singapore 238865
+Contact Number: +65-91234567
+
+Employment Details:
+Position: Financial Analyst
+Company: Global Investments Pte Ltd
+Employment Status: Full-time
+
+Financial Information:
+Source of Funds: Employment income and managed investments.
+Account Balance (Bank of Singapore): SGD 150,000
+
+Additional Information:
+This is a certified copy of the customer's national identity card (NRIC) certified by a notary public.
+A recent utility bill from Singapore Power showing the residential address is attached.
+A recent bank statement from Bank of Singapore, covering the last three months, is also provided for salary 

@@ -1,0 +1,6 @@
+**Singapore KYC Regulations (MAS)**
+1.  **Identity Verification:** Verify full name, alias, identification number, residential address, date of birth, and nationality.
+2.  **Certified Documents:** ID documents must be certified by a lawyer or notary public.
+3.  **Phone Number:** Independently verify the customer's phone number.
+4.  **Employment & Salary:** Confirm employment status (with consent) and verify salary details (e.g., via bank statement).
+5.  **Initial Deposit:** An initial deposit must be made via a check from a Singapore bank.
